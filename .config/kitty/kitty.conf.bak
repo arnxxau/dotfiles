@@ -1,0 +1,36 @@
+background_opacity 0.2
+window_padding_width 20
+
+
+font_family      Jetbrains Mono
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+font_size 12.0
+# background            #282f32
+# foreground            #000000
+# cursor                #d35f5a
+# selection_background  #C97D54
+# color0                #282f32
+# color8                #092027
+# color1                #BF616A
+# color9                #d35f5a
+# color2                #C97D54
+# color10               #d35f5a
+# color3                #FCBB83
+# color11               #a86571
+# color4                #39addb
+# color12               #7c84c4
+# color5                #C97D54
+# color13               #5b5db2
+# color6                #9891B6
+# color14               #81908f
+# color7                #e9e2cd
+# color15               #fcf4de
+# selection_foreground  #282f32
+
+
+# BEGIN_KITTY_THEME
+# C64
+include current-theme.conf
+# END_KITTY_THEME
